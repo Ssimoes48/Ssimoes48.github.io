@@ -99,8 +99,8 @@ p {
     margin-right: -40px;
 }
 
-.tm-about-bg { background-image: url(../img/dream_desk_arm.jpg); }
-.tm-services-bg { background-image: url(../img/dream_desk2.jpg); }
+.tm-projects-bg { background-image: url(../img/dream_desk_arm.jpg); }
+.tm-resume-bg { background-image: url(../img/dream_desk2.jpg); }
 .tm-contact-bg { background-image: url(../img/dream_desk3.jpg); }
 
 @media (max-width: 992px) {
