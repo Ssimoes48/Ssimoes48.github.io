@@ -100,8 +100,8 @@ p {
 }
 
 .tm-projects-bg { background-image: url(../img/dream_desk_arm.jpg); }
-.tm-resume-bg { background-image: url(../img/dream_desk2.jpg); }
-.tm-contact-bg { background-image: url(../img/dream_desk3.jpg); }
+.tm-resume-bg { background-image: url(../img/dream_desk2.JPG); }
+.tm-contact-bg { background-image: url(../img/dream_desk3.JPG); }
 
 @media (max-width: 992px) {
     .tm-contact-bg { background-position: 80% top; }
