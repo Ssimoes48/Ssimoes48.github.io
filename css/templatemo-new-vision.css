@@ -99,9 +99,10 @@ p {
     margin-right: -40px;
 }
 
-.tm-projects-bg { background-image: url(../img/dream_desk_arm.jpg); }
+.tm-projects-bg { background-image: url(../img/dream_desk3.jpg); }
 .tm-resume-bg { background-image: url(../img/dream_desk2.JPG); }
-.tm-contact-bg { background-image: url(../img/dream_desk3.JPG); }
+.tm-contact-bg { background-image: url(../img/contact_image.jpg); }
+.tm-skills-bg {background-image: url(../img/dream_desk4.JPG); }
 
 @media (max-width: 992px) {
     .tm-contact-bg { background-position: 80% top; }
